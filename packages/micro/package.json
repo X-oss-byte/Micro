@@ -32,7 +32,7 @@
     "API"
   ],
   "dependencies": {
-    "arg": "4.1.0",
+    "arg": "5.0.2",
     "content-type": "1.0.4",
     "raw-body": "2.4.1"
   },
