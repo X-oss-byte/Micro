@@ -33,11 +33,11 @@
   ],
   "dependencies": {
     "arg": "4.1.0",
-    "content-type": "1.0.4",
+    "content-type": "1.0.5",
     "raw-body": "2.4.1"
   },
   "devDependencies": {
-    "@types/content-type": "1.1.5",
+    "@types/content-type": "1.1.8",
     "@types/node": "18.0.3",
     "@vercel/style-guide": "5.0.1",
     "eslint": "8.19.0",
